@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 11.1.4 for binding GitHub repository
+convert any POJO Object into MAP<String,String>
+I used it int store Data on MongoDb from Camel route
