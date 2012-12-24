@@ -1,2 +1,4 @@
+Camel used component:
 convert any POJO Object into MAP<String,String>
-I used it int store Data on MongoDb from Camel route
+I used it for store Data on MongoDb from Camel route.
+
